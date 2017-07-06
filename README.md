@@ -1,2 +1,2 @@
 # sweety
-by sweety file
+first to commit to memory
