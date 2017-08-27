@@ -1,0 +1,18 @@
+PDO构造函数
+__construct(string $dsn[,string $username[,string $password[,array $driver_options]]])
+
+<?php
+  header("Conten-Type:text/html;charset=utf-8");
+  $dbms='mysql';
+  $dbName='db_database19';
+  $user='root';
+  $pwd='root';
+  $host='localhost';
+  #dsn="$dbms:host=$hot;dbname=$dbName";
+  try{
+    $pdo = new PDO($dsn,$user,$pwd);
+    echo "connect successed."
+  }catch(Exception $e){
+    echo $e->getMessage()."<br>";
+  }
+?>
