@@ -2,7 +2,7 @@
 * [demo_teaching canvas](https://segmentfault.com/a/1190000008278925)
 * [demo_code](https://demo.luckyw.cn/)
 
-## cmd & npm & node
+## cmd & npm
 * cd ..  返回上一层目录
 * cd \ 返回根目录
 * npm -v  看npm版本
@@ -33,3 +33,11 @@
 * 使用npm update <package> -g可以把全局安装的对应命令行程序更新至最新版。
 * 使用npm cache clear可以清空NPM本地缓存，用于对付使用相同版本号发布新版本代码的人。
 * 使用npm unpublish <package>@<version>可以撤销发布自己发布过的某个版本代码。
+  
+  ## Node.js REPL(交互式解释器)
+  Node.js REPL(Read Eval Print Loop:交互式解释器) 表示一个电脑的环境，类似 Window 系统的终端或 Unix/Linux shell，我们可以在终端中输入命令，并接收系统的响应。
+Node 自带了交互式解释器，可以执行以下任务：
+读取 - 读取用户输入，解析输入了Javascript 数据结构并存储在内存中。
+执行 - 执行输入的数据结构
+打印 - 输出结果
+循环 - 循环操作以上步骤直到用户两次按下 ctrl-c 按钮退出
