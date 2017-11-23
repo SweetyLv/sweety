@@ -35,9 +35,10 @@
 * 使用npm unpublish <package>@<version>可以撤销发布自己发布过的某个版本代码。
   
   ## Node.js REPL(交互式解释器)
-  Node.js REPL(Read Eval Print Loop:交互式解释器) 表示一个电脑的环境，类似 Window 系统的终端或 Unix/Linux shell，我们可以在终端中输入命令，并接收系统的响应。
-Node 自带了交互式解释器，可以执行以下任务：
-读取 - 读取用户输入，解析输入了Javascript 数据结构并存储在内存中。
-执行 - 执行输入的数据结构
-打印 - 输出结果
-循环 - 循环操作以上步骤直到用户两次按下 ctrl-c 按钮退出
+* Node.js REPL(Read Eval Print Loop:交互式解释器) 表示一个电脑的环境，类似 Window 系统的终端或 Unix/Linux shell，我们可以在终端中输入命令，并接收系统的响应。
+* Node 自带了交互式解释器，可以执行以下任务：
+* 读取 - 读取用户输入，解析输入了Javascript 数据结构并存储在内存中。
+* 执行 - 执行输入的数据结构
+* 打印 - 输出结果
+* 循环 - 循环操作以上步骤直到用户两次按下 ctrl-c 按钮退出
+* 启动node的终端指令   node
