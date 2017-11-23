@@ -2,7 +2,8 @@
 * [demo_teaching canvas](https://segmentfault.com/a/1190000008278925)
 * [demo_code](https://demo.luckyw.cn/)
 
-## cmd & npm
+## cmd & npm  
+* 注释：$为指令符号，输入指令时不需要写$此符号
 * cd ..  返回上一层目录
 * cd \ 返回根目录
 * npm -v  看npm版本
@@ -41,4 +42,4 @@
 * 执行 - 执行输入的数据结构
 * 打印 - 输出结果
 * 循环 - 循环操作以上步骤直到用户两次按下 ctrl-c 按钮退出
-* 启动node的终端指令   node
+* 启动node的终端指令  $ node
