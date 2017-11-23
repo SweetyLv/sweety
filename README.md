@@ -3,4 +3,4 @@
 # how to write md
 * [md](http://www.cnblogs.com/liugang-vip/p/6337580.html)
 # website
-* [印记中文]（https://docschina.org/）
+* [印记中文](https://docschina.org/)
