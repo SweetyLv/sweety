@@ -7,3 +7,4 @@
 * [印记中文](https://docschina.org/)
 * [移动端调试工具](http://yujiangshui.com/multidevice-frontend-debug/)
 * [微信开发如何做本地调试](https://www.zhihu.com/question/25456655)
+* [微信开发工具](https://jingyan.baidu.com/article/76a7e409e8fc40fc3b6e15d3.html)
