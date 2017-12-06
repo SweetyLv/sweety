@@ -11,7 +11,7 @@ js中获得当前时间是年份和月份，形如：201208
 
 注意，year.toString()+month.toString()不能写成year+month。不然如果月份大于等于10，则月份为数字，会和年份相加，如201210，则会变为2022，需要加.toString()
 
-''' 以下是搜到的有用内容：
+··· 以下是搜到的有用内容：
 var myDate = new Date();
 myDate.getYear(); //获取当前年份(2位)
 myDate.getFullYear(); //获取完整的年份(4位,1970-????)
@@ -36,4 +36,4 @@ function monthnow(){
 }
 </script>
 
-'''
+···
