@@ -3,7 +3,7 @@
 * [demo_code](https://demo.luckyw.cn/)
 
 ## 疑难问题
-* [experts和module.exports的区别]http://cnodejs.org/topic/5231a630101e574521e45ef8）
+* [experts和module.exports的区别](http://cnodejs.org/topic/5231a630101e574521e45ef8)
 
 ## cmd & npm  
 * 注释：$为指令符号，输入指令时不需要写$此符号
