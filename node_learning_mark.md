@@ -9,6 +9,7 @@
 * 注释：$为指令符号，输入指令时不需要写$此符号
 * cd ..  返回上一层目录
 * cd \ 返回根目录
+* d: 打开d盘
 * npm -v  看npm版本
 * node -v 看node版本
 * npm install npm -g 通过npm命令升级为npm的新版本for Windows
