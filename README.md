@@ -34,4 +34,5 @@
 * [swiper3.x的全部配置选项、方法、函数](http://www.swiper.com.cn/api/start/2014/1218/140.html)
 * [强悍的swiper](http://www.swiper.com.cn/)
 * [微信公众平台技术文档--微信JS-SDK说明文档]（https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1421141115）
+* [人人都是产品经理](http://www.woshipm.com/)
 updated in 2018.1.4
