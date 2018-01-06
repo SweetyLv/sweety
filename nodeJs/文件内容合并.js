@@ -4,13 +4,15 @@ fs.watch(filedir,function(ev,file){
     fs.readdir(filedir,function(err,dataList){
         var arr=[];
         dataList.forEach(function(f){
-
+            if(f){
                 var info = fs.statSync(filedir + '/'+ f);
 
                 //console.log(info);
                 if(info.mode==33206){  //mode:33206,文件
                     arr.push(filedir + '/'+ f);
                 }
+            }
+
         });
         //console.log(arr);
         //读取数组中的文件内容，并合并
