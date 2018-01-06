@@ -3,7 +3,7 @@ var projectData = {
     'fileData' : [
         {
             'name' : 'css',
-            'type' : 'dir'
+            'type' : 'dir'     //dir:文件夹
         },
         {
             'name' : 'js',
@@ -15,7 +15,7 @@ var projectData = {
         },
         {
             'name' : 'index.html',
-            'type' : 'file',
+            'type' : 'file',   //file:文件
             'content' : '<html>\n\t<head>\n\t\t<title>title</title>\n\t</head>\n\t<body>\n\t\t<h1>Hello</h1>\n\t</body>\n</html>',
         }
     ]
