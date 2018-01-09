@@ -2,6 +2,7 @@
 * [demo_teaching canvas](https://segmentfault.com/a/1190000008278925)
 * [demo_code](https://demo.luckyw.cn/)
 
+
 ## 疑难问题
 * [experts和module.exports的区别](http://cnodejs.org/topic/5231a630101e574521e45ef8)
 
@@ -70,3 +71,4 @@ Node.js 回调函数(期待11.23)
 
 ## website
 *[三分钟了解json](http://blog.csdn.net/slwbcsdn/article/details/53458352)
+*[nodejs前端模板引擎swig入门]0(https://www.jianshu.com/p/f0bffc42c1ce)
