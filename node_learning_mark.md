@@ -74,6 +74,7 @@ Node.js 回调函数(期待11.23)
 *[nodejs前端模板引擎swig入门]0(https://www.jianshu.com/p/f0bffc42c1ce)
 *[mongodb](https://www.mongodb.com)
 
-## mongoDB命令参数
+## 相关mongoDB
 * win+R  -> CMD里面 打开存放mongo.exe的安装路径，如：c:\> cd MongoDb\Server\3.6\bin, 在该目录下，输入数据库的存储路径，以及端口，设置后回车。
-* 数据库存储的路径命令：mongod --dbpath=E:\nodeJs\Blog2\db port=27018
+* 命令方式连接mongo：数据库存储的路径命令：mongod --dbpath=E:\nodeJs\Blog2\db port=27018
+* 工具方式连接mongo:Robomongo 0.9.0-RC7
