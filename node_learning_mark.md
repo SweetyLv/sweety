@@ -81,5 +81,6 @@ Node.js 回调函数(期待11.23)
 * [mongoose操作数据库文档](http://mongoosejs.com/)
 * 连接数据库，mongoose.connect('mongdb://localhost:27018/blog',function(){}); 其中，connect(协议://)，这里利用的协议为mongdb协议，后面的function(){}为回调函数。
 * 安装swig模板，在项目根目录下，通过npm安装：npm i -S swig
-* 安装mongoose,需要在项目根目录下运行命令：npm install express-mongoose --save
+* 安装express-mongoose,需要在项目根目录下运行命令：npm install express-mongoose --save
 * [mongoose 安装及配置](http://yunkus.com/mongoose-install-config/)
+* 安装mongoose,需要在项目根目录下运行命令：npm install mongoose --save
