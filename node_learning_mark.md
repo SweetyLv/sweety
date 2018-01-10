@@ -80,3 +80,4 @@ Node.js 回调函数(期待11.23)
 * 工具方式连接mongo:Robomongo 0.9.0-RC7
 * [mongoose操作数据库文档](http://mongoosejs.com/)
 * 连接数据库，mongoose.connect('mongdb://localhost:27018/blog',function(){}); 其中，connect(协议://)，这里利用的协议为mongdb协议，后面的function(){}为回调函数。
+* 安装swig模板，在项目根目录下，通过npm安装：npm i -S swig
