@@ -12,3 +12,5 @@
 
 ## website
 * >[stackoverflow](https://stackoverflow.com/)
+* >[hexo搭建案例一](http://www.xieyuxuan.cc/)
+* >[hexo搭建案例二-七牛做的图床hexo+github pages]（http://www.mulianju.com/）
