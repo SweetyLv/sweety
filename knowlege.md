@@ -16,3 +16,4 @@
 * >[hexo搭建案例二-七牛做的图床hexo+github pages]（http://www.mulianju.com/）
 * >[URL&HTTP协议&GET请求&POST请求](https://www.cnblogs.com/LDSmallCat/p/4942039.html)
 * >[nodejs router.get怎么在里面调用方法](https://zhidao.baidu.com/question/1898708777239951660.html)
+* >[nodejs Express 4.x req.body req.query req.params 三种获取参数的方法](https://www.cnblogs.com/yourstars/p/5993376.html)
