@@ -20,3 +20,4 @@
 * >[mongodb搭建]（https://www.jianshu.com/p/1a2032cfa13d）
 * >[利用github搭建博客新域名](https://www.jianshu.com/p/05289a4bc8b2)
 * >[基于github的二级域名]（https://www.jianshu.com/p/e68fba58f75c）
+* >[利用GitHub Pages和Hexo搭建个人博客](https://www.cnblogs.com/scplee/p/5533292.html)
