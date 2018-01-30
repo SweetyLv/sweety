@@ -18,3 +18,4 @@
 * >[Git基本操作](http://blog.csdn.net/u011974987/article/details/50973740)
 * >[(译)Mongoose指南 - Schema - irocker - 博客园](https://www.cnblogs.com/irocker/p/mongoose-schema.html)
 * >[mongodb搭建]（https://www.jianshu.com/p/1a2032cfa13d）
+* >[利用github搭建博客](https://www.jianshu.com/p/05289a4bc8b2)
