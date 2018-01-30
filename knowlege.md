@@ -22,3 +22,4 @@
 * >[基于github的二级域名]（https://www.jianshu.com/p/e68fba58f75c）
 * >[利用GitHub Pages和Hexo搭建个人博客](https://www.cnblogs.com/scplee/p/5533292.html)
 * >[myblog](https://sweetylv.github.io/index.html)
+* >[hexo本地安装命令]（https://zhidao.baidu.com/question/1769805603525048220.html）
