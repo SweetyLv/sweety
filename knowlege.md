@@ -26,3 +26,4 @@
 * >[搭建Hexo博客中碰到的坑](https://www.jianshu.com/p/a2fe56d11c4f)
 * >[本地hexo如何上传到github](https://www.cnblogs.com/imapla/p/5533000.html)
 * >[解决用Hexo和GitHub搭建博客时hexo d命令报错问题](http://blog.csdn.net/Greenovia/article/details/60576985)
+* >[hexo启动，初始化，换主题]（http://blog.csdn.net/qq_27093465/article/details/72957030）
