@@ -28,4 +28,4 @@
 * >[解决用Hexo和GitHub搭建博客时hexo d命令报错问题](http://blog.csdn.net/Greenovia/article/details/60576985)
 * >[hexo启动，初始化，换主题]（http://blog.csdn.net/qq_27093465/article/details/72957030）
 * >[怎样将Godaddy域名解析到DNSPOD](https://jingyan.baidu.com/article/39810a23c5a3a3b636fda699.html)
-*
+* >[如何用github page搭建博客](https://www.zhihu.com/question/59088760/answer/161640592)
