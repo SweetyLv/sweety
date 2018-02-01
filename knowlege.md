@@ -31,6 +31,7 @@
 * >[如何用github page搭建博客](https://www.zhihu.com/question/59088760/answer/161640592)
 * >[git技术博客大全](http://blog.csdn.net/renfufei/article/details/37725057)
 * >[hexo本地博客如何上传到github最多赞]（http://crazymilk.github.io/2015/12/28/GitHub-Pages-Hexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/#more）
+* >[hexo通过git发布出错](https://www.jianshu.com/p/017e01718d41)
 
 ## 
 * CNAME
