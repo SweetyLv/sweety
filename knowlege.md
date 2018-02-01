@@ -29,3 +29,4 @@
 * >[hexo启动，初始化，换主题]（http://blog.csdn.net/qq_27093465/article/details/72957030）
 * >[怎样将Godaddy域名解析到DNSPOD](https://jingyan.baidu.com/article/39810a23c5a3a3b636fda699.html)
 * >[如何用github page搭建博客](https://www.zhihu.com/question/59088760/answer/161640592)
+* >[搭建博客方法](http://blog.csdn.net/renfufei/article/details/37725057)
