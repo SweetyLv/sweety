@@ -27,3 +27,5 @@
 * >[本地hexo如何上传到github](https://www.cnblogs.com/imapla/p/5533000.html)
 * >[解决用Hexo和GitHub搭建博客时hexo d命令报错问题](http://blog.csdn.net/Greenovia/article/details/60576985)
 * >[hexo启动，初始化，换主题]（http://blog.csdn.net/qq_27093465/article/details/72957030）
+* >[怎样将Godaddy域名解析到DNSPOD](https://jingyan.baidu.com/article/39810a23c5a3a3b636fda699.html)
+*
