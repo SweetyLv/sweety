@@ -33,6 +33,18 @@
 * >[hexo本地博客如何上传到github最多赞]（http://crazymilk.github.io/2015/12/28/GitHub-Pages-Hexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/#more）
 * >[hexo通过git发布出错](https://www.jianshu.com/p/017e01718d41)
 * <[hexo搭建个人博客](https://www.jianshu.com/p/c1abb25aa8c7)
+## 个人博客纪录篇
+安装成功参考篇：
+1、安装导航篇：
+http://blog.csdn.net/gdutxiaoxu/article/details/53573286
+
+2、环境变量配置
+http://blog.csdn.net/banqgg/article/details/52983827
+我的电脑->属性->高级系统配置->高级->环境变量
+
+3、github上选择主题显示
+https://sweetylv.github.io/
+参考路径：http://blog.csdn.net/gdutxiaoxu/article/details/53576018 
 
 ## 
 * CNAME
