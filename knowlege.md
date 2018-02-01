@@ -31,3 +31,7 @@
 * >[如何用github page搭建博客](https://www.zhihu.com/question/59088760/answer/161640592)
 * >[git技术博客大全](http://blog.csdn.net/renfufei/article/details/37725057)
 
+## 
+* CNAME
+* sweetylv.com]
+
