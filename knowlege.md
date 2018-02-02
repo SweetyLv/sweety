@@ -32,7 +32,10 @@
 * >[git技术博客大全](http://blog.csdn.net/renfufei/article/details/37725057)
 * >[hexo本地博客如何上传到github最多赞]（http://crazymilk.github.io/2015/12/28/GitHub-Pages-Hexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/#more）
 * >[hexo通过git发布出错](https://www.jianshu.com/p/017e01718d41)
-* <[hexo搭建个人博客](https://www.jianshu.com/p/c1abb25aa8c7)
+* >[hexo搭建个人博客](https://www.jianshu.com/p/c1abb25aa8c7)
+* >[如何用命令将本地项目上传到github](https://www.cnblogs.com/eedc/p/6168430.html)
+
+
 ## 个人博客纪录篇
 安装成功参考篇：
 1、安装导航篇：
