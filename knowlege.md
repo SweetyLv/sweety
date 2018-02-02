@@ -52,5 +52,5 @@ https://sweetylv.github.io/
 
 ## 
 * CNAME
-* sweetylv.com]
+* sweetylv.com
 
