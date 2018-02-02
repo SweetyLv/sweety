@@ -34,6 +34,7 @@
 * >[hexo通过git发布出错](https://www.jianshu.com/p/017e01718d41)
 * >[hexo搭建个人博客](https://www.jianshu.com/p/c1abb25aa8c7)
 * >[如何用命令将本地项目上传到github](https://www.cnblogs.com/eedc/p/6168430.html)
+* >[解决git push问题](https://jingyan.baidu.com/album/f3e34a12a25bc8f5ea65354a.html?picindex=2)
 
 
 ## 个人博客纪录篇
