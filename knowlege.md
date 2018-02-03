@@ -38,6 +38,21 @@
 
 ## hexo上传git问题
 * >你的配置文件写的有问题，type和repo后面都要有一个空格
+* >hexo deploy出现：not found git的解决方法：
+1）git 环境变量添加：(http://blog.csdn.net/Qin605/article/details/71124757)
+D:\program files\Git\bin; 
+D:\program files\Git\mingw64\libexec\git-core; 
+2)_config.yml配置中的deploy下的“type”字段中的“github”改为“git”(https://www.jianshu.com/p/5e0ca2b14815)
+再执行：
+npm install hexo-deployer-git --save
+重新deploy即可
+hexo deploy
+3)把文件夹名称换位仓库名称（http://blog.csdn.net/mayuko2012/article/details/60606326）
+参照网上的方式：
+deploy的type 的github需要改成git
+npm install hexo-deployer-git –save
+仍然无解。
+最后修改blog的初始文件夹为github上的仓库名称，解决问题。
 
 ## npm命令
 * >[hexo全局下载安装失败的解决方式如下](https://www.zhihu.com/question/27616505)
