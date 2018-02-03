@@ -36,6 +36,9 @@
 * >[如何用命令将本地项目上传到github](https://www.cnblogs.com/eedc/p/6168430.html)
 * >[解决git push问题](https://jingyan.baidu.com/album/f3e34a12a25bc8f5ea65354a.html?picindex=2)
 
+## hexo上传git问题
+* >你的配置文件写的有问题，type和repo后面都要有一个空格
+
 ## npm命令
 * >[hexo全局下载安装失败的解决方式如下](https://www.zhihu.com/question/27616505)
 * > npm源的问题，可以尝试更换taobao的npm源
