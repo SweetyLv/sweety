@@ -56,6 +56,7 @@ deploy的type 的github需要改成git
 npm install hexo-deployer-git –save
 仍然无解。
 最后修改blog的初始文件夹为github上的仓库名称，解决问题。
+* >[hexo init命令出现问题](http://blog.csdn.net/whjkm/article/details/42675579)
 
 ## npm命令
 * >[hexo全局下载安装失败的解决方式如下](https://www.zhihu.com/question/27616505)
