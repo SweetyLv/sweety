@@ -36,6 +36,7 @@
 * >[如何用命令将本地项目上传到github](https://www.cnblogs.com/eedc/p/6168430.html)
 * >[解决git push问题](https://jingyan.baidu.com/album/f3e34a12a25bc8f5ea65354a.html?picindex=2)
 * >[hexo主题](https://www.v2ex.com/t/165661)
+* >[如何修改hexo博客主题](http://blog.csdn.net/gdutxiaoxu/article/details/53576018)
 
 ## hexo上传git问题
 * >你的配置文件写的有问题，type和repo后面都要有一个空格
