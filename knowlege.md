@@ -37,6 +37,7 @@
 * >[解决git push问题](https://jingyan.baidu.com/album/f3e34a12a25bc8f5ea65354a.html?picindex=2)
 * >[hexo主题](https://www.v2ex.com/t/165661)
 * >[如何修改hexo博客主题](http://blog.csdn.net/gdutxiaoxu/article/details/53576018)
+* >[更换hexo主题三部曲]（http://blog.csdn.net/zhou906767220/article/details/62469909）
 
 ## hexo上传git问题
 * >你的配置文件写的有问题，type和repo后面都要有一个空格
