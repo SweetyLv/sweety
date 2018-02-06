@@ -59,6 +59,9 @@ npm install hexo-deployer-git –save
 最后修改blog的初始文件夹为github上的仓库名称，解决问题。
 * >[hexo init命令出现问题](http://blog.csdn.net/whjkm/article/details/42675579)
 
+## node.js项目部署到云服务
+* >[node.js项目部署到云服务](http://blog.csdn.net/chenlinIT/article/details/73343793)
+
 ## npm命令
 * >[hexo全局下载安装失败的解决方式如下](https://www.zhihu.com/question/27616505)
 * > npm源的问题，可以尝试更换taobao的npm源
