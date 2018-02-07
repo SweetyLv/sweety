@@ -61,6 +61,7 @@ npm install hexo-deployer-git –save
 
 ## node.js项目部署到云服务
 * >[node.js项目部署到云服务](http://blog.csdn.net/chenlinIT/article/details/73343793)
+* >[node.js部署到阿里云全过程](http://blog.csdn.net/moumaobuchiyu/article/details/55004430)
 
 ## npm命令
 * >[hexo全局下载安装失败的解决方式如下](https://www.zhihu.com/question/27616505)
