@@ -64,6 +64,9 @@ npm install hexo-deployer-git –save
 * >[node.js部署到阿里云全过程](http://blog.csdn.net/moumaobuchiyu/article/details/55004430)
 * >[xshell登陆云服务](https://jingyan.baidu.com/album/75ab0bcbc40b39d6864db23c.html?picindex=2)
 
+## linux相关命令等
+* >[开机启动项查看和修改]（https://jingyan.baidu.com/article/bea41d43b8a2f4b4c51be6a5.html）
+
 ## npm命令
 * >[hexo全局下载安装失败的解决方式如下](https://www.zhihu.com/question/27616505)
 * > npm源的问题，可以尝试更换taobao的npm源
