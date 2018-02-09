@@ -63,6 +63,7 @@ npm install hexo-deployer-git –save
 * >[node.js项目部署到云服务](http://blog.csdn.net/chenlinIT/article/details/73343793)
 * >[node.js部署到阿里云全过程](http://blog.csdn.net/moumaobuchiyu/article/details/55004430)
 * >[xshell登陆云服务](https://jingyan.baidu.com/album/75ab0bcbc40b39d6864db23c.html?picindex=2)
+* >[部署项目完整版](http://blog.csdn.net/u013263917/article/details/79037770)
 
 ## linux相关命令等
 * >[开机启动项查看和修改]（https://jingyan.baidu.com/article/bea41d43b8a2f4b4c51be6a5.html）
