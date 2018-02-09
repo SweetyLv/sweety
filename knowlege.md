@@ -66,6 +66,7 @@ npm install hexo-deployer-git –save
 
 ## linux相关命令等
 * >[开机启动项查看和修改]（https://jingyan.baidu.com/article/bea41d43b8a2f4b4c51be6a5.html）
+* >:wq  保存并退出  ;     i  进入编辑    ；   esc键退出编辑
 
 ## npm命令
 * >[hexo全局下载安装失败的解决方式如下](https://www.zhihu.com/question/27616505)
