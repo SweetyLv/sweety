@@ -1,5 +1,6 @@
 ### 欢迎访问我的博客
 * [欢迎访问我的博客](https://sweetylv.github.io/index.html)
+* [hexo换主题](http://blog.csdn.net/qq_27093465/article/details/72957030)
 
 ## online editor
 * [jsFiddle](https://jsfiddle.net/)
