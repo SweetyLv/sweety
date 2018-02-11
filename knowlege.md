@@ -15,6 +15,41 @@
 * [Mint UI github](https://github.com/ElemeFE/mint-ui)
 * [element UI github](https://github.com/elemefe)
 
+## 记录建站的全过程
+有空才编写成经验步骤分享，现在先在此记录一下相关的参考资料和踩过的填坑方法
+管理员命令：https://jingyan.baidu.com/article/fb48e8be1b785d6e622e1495.html
+
+npm install 报错-4048：http://blog.csdn.net/letasian/article/details/77987043
+
+hexo步骤流程：http://blog.csdn.net/gdutxiaoxu/article/details/53576018
+
+http://crazymilk.github.io/2015/12/28/GitHub-Pages-Hexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/#more%EF%BC%89
+
+http://blog.csdn.net/qq_27093465/article/details/72957030
+
+主题库：https://hexo.io/themes/
+
+主题更换：http://blog.csdn.net/arvin0/article/details/71338651
+
+写作命令信息：https://hexo.io/zh-cn/docs/writing.html
+
+参考博客：http://www.54tianzhisheng.cn/
+
+markdown语法：http://blog.csdn.net/chwshuang/article/details/52350551
+
+markdown让语法书写更优美：https://www.jianshu.com/p/17fdcf17bbb4
+
+md语法说明详解：http://wowubuntu.com/markdown/index.html
+
+改名：theme: yilia
+
+git not found错误：
+在git里执行命令 npm i hexo-generator-json-content --save
+
+输入：$ hexo d 出现ERROR Deployer not found: git：
+解决方案：
+输入命令安装扩展：npm install --save hexo-deployer-git
+
 ## website
 * >[stackoverflow](https://stackoverflow.com/)
 * >[hexo搭建案例一](http://www.xieyuxuan.cc/)
