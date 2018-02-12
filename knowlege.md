@@ -9,7 +9,7 @@
 * [how to use jsFiddle](http://doc.jsfiddle.net/)
 
 ## framework
-* [element](http://element.eleme.io/#/zh-CN)
+* [element](http://element-cn.eleme.io/#/zh-CN)
 * [element github](https://github.com/ElemeFE/element)
 * [Mint UI](http://mint-ui.github.io/#!/zh-cn)
 * [Mint UI github](https://github.com/ElemeFE/mint-ui)
