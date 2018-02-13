@@ -1,3 +1,25 @@
+## website
+*[三分钟了解json](http://blog.csdn.net/slwbcsdn/article/details/53458352)
+*[nodejs前端模板引擎swig入门]0(https://www.jianshu.com/p/f0bffc42c1ce)
+*[mongodb](https://www.mongodb.com)
+
+## 相关mongoDB
+* win+R  -> CMD里面 打开存放mongo.exe的安装路径，如：c:\> cd MongoDb\Server\3.6\bin, 在该目录下，输入数据库的存储路径，以及端口，设置后回车。
+* 命令方式连接mongo：数据库存储的路径命令：mongod --dbpath=E:\nodeJs\Blog2\db port=27018
+* 工具方式连接mongo:Robomongo 0.9.0-RC7
+* [mongoose操作数据库文档](http://mongoosejs.com/)
+* 连接数据库，mongoose.connect('mongdb://localhost:27018/blog',function(){}); 其中，connect(协议://)，这里利用的协议为mongdb协议，后面的function(){}为回调函数。
+* 安装swig模板，在项目根目录下，通过npm安装：npm i -S swig
+* 安装express-mongoose,需要在项目根目录下运行命令：npm install express-mongoose --save
+* [mongoose 安装及配置](http://yunkus.com/mongoose-install-config/)
+* 安装mongoose,需要在项目根目录下运行命令：npm install mongoose --save
+
+## node.js项目部署到云服务
+* >[node.js项目部署到云服务](http://blog.csdn.net/chenlinIT/article/details/73343793)
+* >[node.js部署到阿里云全过程](http://blog.csdn.net/moumaobuchiyu/article/details/55004430)
+* >[xshell登陆云服务](https://jingyan.baidu.com/album/75ab0bcbc40b39d6864db23c.html?picindex=2)
+* >[部署项目完整版](http://blog.csdn.net/u013263917/article/details/79037770)
+
 ## demo page
 * [demo_teaching canvas](https://segmentfault.com/a/1190000008278925)
 * [demo_code](https://demo.luckyw.cn/)
@@ -69,18 +91,4 @@ Node.js 回调函数(期待11.23)
 * 'r+' - 以读写模式打开文件。如果文件不存在则发生异常。
 * 'rs+' - 以同步读写模式打开文件。命令操作系统绕过本地文件系统缓存。
 
-## website
-*[三分钟了解json](http://blog.csdn.net/slwbcsdn/article/details/53458352)
-*[nodejs前端模板引擎swig入门]0(https://www.jianshu.com/p/f0bffc42c1ce)
-*[mongodb](https://www.mongodb.com)
 
-## 相关mongoDB
-* win+R  -> CMD里面 打开存放mongo.exe的安装路径，如：c:\> cd MongoDb\Server\3.6\bin, 在该目录下，输入数据库的存储路径，以及端口，设置后回车。
-* 命令方式连接mongo：数据库存储的路径命令：mongod --dbpath=E:\nodeJs\Blog2\db port=27018
-* 工具方式连接mongo:Robomongo 0.9.0-RC7
-* [mongoose操作数据库文档](http://mongoosejs.com/)
-* 连接数据库，mongoose.connect('mongdb://localhost:27018/blog',function(){}); 其中，connect(协议://)，这里利用的协议为mongdb协议，后面的function(){}为回调函数。
-* 安装swig模板，在项目根目录下，通过npm安装：npm i -S swig
-* 安装express-mongoose,需要在项目根目录下运行命令：npm install express-mongoose --save
-* [mongoose 安装及配置](http://yunkus.com/mongoose-install-config/)
-* 安装mongoose,需要在项目根目录下运行命令：npm install mongoose --save
