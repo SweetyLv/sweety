@@ -16,6 +16,7 @@
 * [形象描述schema与database等的区别](https://zhidao.baidu.com/question/1863152252753215947.html)
 
 ## node.js项目部署到云服务
+* 安装node.js时记得修改系统变量参数的参考：https://www.cnblogs.com/learnings/p/7372718.html
 * >[node.js项目部署到云服务](http://blog.csdn.net/chenlinIT/article/details/73343793)
 * >[node.js部署到阿里云全过程](http://blog.csdn.net/moumaobuchiyu/article/details/55004430)
 * >[xshell登陆云服务](https://jingyan.baidu.com/album/75ab0bcbc40b39d6864db23c.html?picindex=2)
