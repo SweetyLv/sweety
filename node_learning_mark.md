@@ -13,6 +13,7 @@
 * 安装express-mongoose,需要在项目根目录下运行命令：npm install express-mongoose --save
 * [mongoose 安装及配置](http://yunkus.com/mongoose-install-config/)
 * 安装mongoose,需要在项目根目录下运行命令：npm install mongoose --save
+* [形象描述schema与database等的区别](https://zhidao.baidu.com/question/1863152252753215947.html)
 
 ## node.js项目部署到云服务
 * >[node.js项目部署到云服务](http://blog.csdn.net/chenlinIT/article/details/73343793)
