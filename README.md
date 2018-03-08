@@ -39,3 +39,6 @@
 * [微信开发工具](https://jingyan.baidu.com/article/76a7e409e8fc40fc3b6e15d3.html)
 * [swiper3.x的全部配置选项、方法、函数](http://www.swiper.com.cn/api/start/2014/1218/140.html)
 * [强悍的swiper](http://www.swiper.com.cn/)
+* [英文商城1](https://www.yoins.com/only-yoins.html)
+* [英文商城2](https://www.banggood.com/)
+* [英文商城3](https://www.newchic.com/)
