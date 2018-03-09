@@ -13,3 +13,5 @@
 * .html linguist-language = php
 这表示将 js, css, html 代码按照 php 语言统计
 
+#### hexo
+* [Hexo博客从一台电脑迁移到其他电脑](https://www.jianshu.com/p/beb8d611340a)
